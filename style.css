@@ -1,0 +1,222 @@
+* {
+    margin: 0;
+    font-family: 'Abyssinica SIL', serif;
+}
+
+/* -----------First Section------------- */
+
+header {
+    background-image: url(images/m26-s-1.webp);
+    height: 160vh;
+    background-repeat: no-repeat;
+}
+
+.first-part {
+    display: flex;
+    width: 100%;
+}
+
+.half {
+    width: 50%;
+}
+
+.half-width {
+    display: flex;
+    padding: 70px 0 0 0;
+}
+
+.img-logo {
+    width: 15%;
+    padding: 40px 0 0 40px;
+}
+
+.half-width h3 {
+    color: white;
+    font-size: 20px;
+    padding-right: 40px;
+}
+
+.header-line {
+    text-align: center;
+    padding-top: 120px;
+    color: white;
+}
+
+.header-line h3 {
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+}
+
+.header-line h1 {
+    font-size: 90px;
+    font-family: 'Playfair Display', serif;
+}
+
+.header-line button {
+    margin-top: 40px;
+}
+
+.btn {
+
+    font-size: 16px;
+    font-weight: 90px;
+    background-color: rgb(232, 113, 65);
+    border: none;
+    padding: 20px 40px;
+    border-radius: 30px;
+    color: white;
+}
+
+/*-------------- Second Part -------------*/
+
+.second {
+    background-color: rgb(236, 248, 255);
+    background-image: url(images/bg-1.webp);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
+    margin-bottom: 100px;
+}
+
+.second-part {
+    display: flex;
+    width: 100%;
+    padding: 200px 0;
+}
+
+.second-part-img {
+    width: 80%;
+    padding-left: 100px;
+}
+
+.second-part-line {
+    padding-top: 100px;
+}
+
+.second-part-line h1 {
+    font-size: 45px;
+    margin-bottom: 30px;
+    font-family: 'Playfair Display', serif;
+}
+
+.second-part-line p {
+    font-size: 20px;
+    margin-bottom: 30px;
+    color: #868282;
+}
+
+
+/* ----------Third Part------------ */
+
+.third{
+    margin-bottom: 100px;
+}
+
+.third-part {
+    text-align: center;
+}
+
+.third-part h1 {
+    font-size: 50px;
+    font-weight: 900;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 10px;
+}
+
+.third-part p {
+    font-size: 20px;
+    color: #868282;
+    margin-bottom: 70px;
+}
+
+.services{
+    display: flex;
+}
+
+.services-gap{
+    padding: 0 20px;
+    margin-bottom: 30px;
+}
+
+.service {
+    display: flex;
+}
+
+.service-img {
+    width: 40%;
+    border: 1px solid;
+    border-radius: 60px;
+    padding: 15px;
+}
+
+.service-line {
+    text-align: justify;
+    padding-top: 10px;
+    margin-left: -20px;
+}
+
+.service-line h3 {
+    font-size: 25px;
+}
+
+.service-line p {
+    font-size: 15px;
+}
+
+/*-----------------  Fourth Part -----------------*/
+
+.fourth{
+    background-color: rgb(236, 248, 255);
+}
+
+.fourth-part{
+    display: flex;
+    width: 100%;
+}
+
+.experience-img{
+    width: 100%;
+}
+
+.fourth-part-line {
+    padding: 120px 0 0 80px;
+}
+.fourth-part-line h1{
+    font-size: 40px;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 30px;
+}
+.fourth-part-line p{
+    font-size: 25px;
+    padding-right: 150px;
+    text-align: justify;
+    color: #868282;
+    margin-bottom: 50px;
+}
+
+/*--------------- Fifth Part ----------------*/
+
+.fifth{
+    background-color: rgb(15, 32, 42);
+    color: white;
+    padding-top: 100px;
+    height: 400px;
+}
+
+.fifth-part{
+    text-align: center;
+}
+
+.fifth-part p{
+    font-size: 35px;
+    padding: 0 20px 40px 20px;
+}
+
+.fifth-part img{
+    width: 7%;
+    margin-bottom: 15px;
+}
+
+.fifth-part h4{
+    font-size: 20px;
+}
