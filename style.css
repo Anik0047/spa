@@ -108,7 +108,7 @@ header {
 
 /* ----------Third Part------------ */
 
-.third{
+.third {
     margin-bottom: 100px;
 }
 
@@ -129,11 +129,11 @@ header {
     margin-bottom: 70px;
 }
 
-.services{
+.services {
     display: flex;
 }
 
-.services-gap{
+.services-gap {
     padding: 0 20px;
     margin-bottom: 30px;
 }
@@ -165,28 +165,30 @@ header {
 
 /*-----------------  Fourth Part -----------------*/
 
-.fourth{
+.fourth {
     background-color: rgb(236, 248, 255);
 }
 
-.fourth-part{
+.fourth-part {
     display: flex;
     width: 100%;
 }
 
-.experience-img{
+.experience-img {
     width: 100%;
 }
 
 .fourth-part-line {
     padding: 120px 0 0 80px;
 }
-.fourth-part-line h1{
+
+.fourth-part-line h1 {
     font-size: 40px;
     font-family: 'Playfair Display', serif;
     margin-bottom: 30px;
 }
-.fourth-part-line p{
+
+.fourth-part-line p {
     font-size: 25px;
     padding-right: 150px;
     text-align: justify;
@@ -196,27 +198,167 @@ header {
 
 /*--------------- Fifth Part ----------------*/
 
-.fifth{
+.fifth {
     background-color: rgb(15, 32, 42);
     color: white;
     padding-top: 100px;
     height: 400px;
+    margin-bottom: 60px;
 }
 
-.fifth-part{
+.fifth-part {
     text-align: center;
 }
 
-.fifth-part p{
+.fifth-part p {
     font-size: 35px;
     padding: 0 20px 40px 20px;
 }
 
-.fifth-part img{
+.fifth-part img {
     width: 7%;
     margin-bottom: 15px;
 }
 
-.fifth-part h4{
+.fifth-part h4 {
     font-size: 20px;
 }
+
+/*-------------- sixth part --------------*/
+
+.sixth {
+    margin-bottom: 150px;
+}
+
+.sixth-part {
+    text-align: center;
+}
+
+.sixth-part h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.sixth-part p {
+    font-size: 25px;
+    color: #868282;
+}
+
+.member-list {
+    display: flex;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.members-center {
+    width: 26.66%;
+    border: 1px solid;
+}
+
+.member-part {
+    display: block;
+    color: rgba(0, 0, 0, 0.508);
+}
+
+.center {
+    margin-left: 150px;
+}
+
+#word-color {
+    margin-top: 2px;
+}
+
+.members-center h1 {
+    padding-top: 40px;
+    padding-bottom: 10px;
+    font-size: 50px;
+
+}
+
+.members-center p {
+    font-size: 40px;
+    color: black;
+}
+
+.big-letter {
+    font-size: 60px;
+    font-family: 'Playfair Display', serif;
+}
+
+.members-center small {
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+.word-color {
+    color: rgb(232, 114, 66);
+    font-family: 'Playfair Display', serif;
+}
+
+.buy-now {
+    margin: 50px 0;
+}
+
+.popular-service{
+    display: flex;
+    width: 100%;
+}
+
+.service-half{
+    width: 70%;
+}
+
+#word-color{
+padding-left: 60px;
+}
+
+#popular{
+    background-color: rgb(64, 168, 166);
+    padding: 10px 20px;
+    margin: 50px 0;
+    border-radius: 20px;
+}
+
+#popular small{
+    font-size: 10px;
+    color: white;
+}
+
+/*---------------- seven part ------------ */
+
+.seven{
+    background-color: rgb(236, 248, 255);
+    padding-bottom: 50px;
+}
+
+.seven-part{
+    text-align: center;
+}
+
+.seven-part h1{
+    font-size: 50px;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 20px;
+    padding-top: 50px;
+}
+
+.seven-part p{
+    font-size: 20px;
+    color: #868282;
+    margin-bottom: 50px;
+}
+
+.experts{
+    display: flex;
+    width: 100%;
+}
+
+.experts img{
+    width: 40%;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+
+
